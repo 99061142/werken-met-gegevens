@@ -1,15 +1,3 @@
-#Lunch
-crossaints = 17 * .39
-bread = 2 * 2.78
-discount = 3 * .5
-
-price = crossaints + bread
-lunchTotal = price - discount
-
-print(lunchTotal)
-# /Lunch
-
-# Arcade
 persons = 3
 ticketTotal = persons * 7.45 
 
@@ -21,4 +9,3 @@ gameseatTotal = gameseat_price * persons
 arcadeTotal = gameseatTotal + ticketTotal
 
 print(arcadeTotal)
-# /Arcade
