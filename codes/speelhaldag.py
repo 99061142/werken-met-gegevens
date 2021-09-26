@@ -8,4 +8,5 @@ gameseatTotal = gameseat_price * persons
 
 arcadeTotal = gameseatTotal + ticketTotal
 
-print(arcadeTotal)
+
+print("Dit geweldige dagje-uit met", persons, "mensen in de Speelhal met", gameseat_time, "minuten VR kost je maar", arcadeTotal, "euro")
